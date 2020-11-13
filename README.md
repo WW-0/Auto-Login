@@ -4,6 +4,6 @@
 
 win10开机自启方法参考链接：https://blog.csdn.net/qq_38791897/article/details/104219079
 
-ubuntu方法可以自行百度。
+ubuntu开机自启动方法自行百度
 
 日常摸鱼。。。
